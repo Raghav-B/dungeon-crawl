@@ -1,0 +1,8 @@
+﻿  Quiz_Text_Generator.cpp
+c:\users\raghav bhardwaj\downloads\ieee2019hack-master\ieee2019hack-master\quiz_text_generator\questions_data.h(29): warning C4018: '>': signed/unsigned mismatch
+c:\users\raghav bhardwaj\downloads\ieee2019hack-master\ieee2019hack-master\quiz_text_generator\questions_data.h(56): warning C4018: '<': signed/unsigned mismatch
+c:\users\raghav bhardwaj\downloads\ieee2019hack-master\ieee2019hack-master\quiz_text_generator\questions_data.h(77): warning C4018: '<': signed/unsigned mismatch
+c:\users\raghav bhardwaj\downloads\ieee2019hack-master\ieee2019hack-master\quiz_text_generator\applet_tools.h(27): warning C4018: '<': signed/unsigned mismatch
+c:\users\raghav bhardwaj\downloads\ieee2019hack-master\ieee2019hack-master\quiz_text_generator\applet_tools.h(42): warning C4018: '<': signed/unsigned mismatch
+c:\users\raghav bhardwaj\downloads\ieee2019hack-master\ieee2019hack-master\quiz_text_generator\questions_data.h(32): warning C4715: 'Data::check': not all control paths return a value
+  Quiz_Text_Generator.vcxproj -> C:\Users\Raghav Bhardwaj\Downloads\IEEE2019Hack-master\IEEE2019Hack-master\Debug\Quiz_Text_Generator.exe
